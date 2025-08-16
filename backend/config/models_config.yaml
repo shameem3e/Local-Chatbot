@@ -1,0 +1,11 @@
+llm:
+  Ollama:
+    - mistral:7b
+    - gemma:2b
+  Groq:
+    - gemma2-9b-it
+    - llama-3.3-70b-versatile
+    - llama-3.1-8b-instant
+  Openai:
+    - gpt-3.5-turbo
+    - gpt-4.1-mini-2025-04-14

@@ -1,0 +1,8 @@
+pip install -r requirements.txt
+
+create .env file with appropriate variables
+
+uvicorn backend.main:app
+
+streamlit run frontend/app.py
+

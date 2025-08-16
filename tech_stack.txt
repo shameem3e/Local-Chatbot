@@ -1,0 +1,10 @@
+Python
+Ollama (Groq & OpenAI - optional)
+llama-index
+FastAPI
+Streamlit
+Tinydb (Can be replaced with Mysql, Postgres, etc)
+
+
+
+
